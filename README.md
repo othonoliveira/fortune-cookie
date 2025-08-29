@@ -1,6 +1,6 @@
 ## Fortune Cookie
 
-## How can I edit this code?
+## How can I run this code?
 
 **Use your preferred IDE**
 
